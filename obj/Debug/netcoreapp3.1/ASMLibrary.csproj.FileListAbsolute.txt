@@ -1,0 +1,13 @@
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\bin\Debug\netcoreapp3.1\ASMLibrary.exe
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\bin\Debug\netcoreapp3.1\ASMLibrary.deps.json
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\bin\Debug\netcoreapp3.1\ASMLibrary.runtimeconfig.json
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\bin\Debug\netcoreapp3.1\ASMLibrary.runtimeconfig.dev.json
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\bin\Debug\netcoreapp3.1\ASMLibrary.dll
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\bin\Debug\netcoreapp3.1\ASMLibrary.pdb
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\obj\Debug\netcoreapp3.1\ASMLibrary.csproj.AssemblyReference.cache
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\obj\Debug\netcoreapp3.1\ASMLibrary.AssemblyInfoInputs.cache
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\obj\Debug\netcoreapp3.1\ASMLibrary.AssemblyInfo.cs
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\obj\Debug\netcoreapp3.1\ASMLibrary.csproj.CoreCompileInputs.cache
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\obj\Debug\netcoreapp3.1\ASMLibrary.dll
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\obj\Debug\netcoreapp3.1\ASMLibrary.pdb
+D:\10. Advanced Programming\Tuhoc\Advanced1651\ASMLibrary\obj\Debug\netcoreapp3.1\ASMLibrary.genruntimeconfig.cache
